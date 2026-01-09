@@ -28,8 +28,8 @@
 ## Быстрый старт
 
 ```bash
-git clone https://gitlab.com/alrch/tetris-c
-cd tetris-c/src
+git clone https://github.com/alrch/tetris_c/
+cd tetris_c/src
 
 # Установка зависимостей для Ubuntu/Debian
 sudo apt install libncurses5-dev libcheck-dev
